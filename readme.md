@@ -12,4 +12,4 @@
                         - RDFCodec ( into RDF format )
 
 ___
-Oussama El ALoui - CopyRight reserved (C) 15/04/2023
+***Oussama El ALoui - CopyRight reserved (C) 15/04/2023***
